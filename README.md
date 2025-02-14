@@ -31,8 +31,3 @@ The models are trained using machine learning techniques on specific datasets an
 ## 🔧 Installation & Usage
 ### Prerequisites
 Ensure you have **Python 3.10+** installed along with the required libraries.
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/your-username/multiple-disease-prediction.git
-cd multiple-disease-prediction
