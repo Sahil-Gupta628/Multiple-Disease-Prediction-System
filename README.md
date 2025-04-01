@@ -28,6 +28,7 @@ The models are trained using machine learning techniques on specific datasets an
 
 ---
 
-## 🔧 Installation & Usage
+## 🔧 Installation
 ### Prerequisites
 Ensure you have **Python 3.10+** installed along with the required libraries.
+
